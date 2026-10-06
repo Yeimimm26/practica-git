@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 paco sanz
-print("Cambio local sin conflicto")
+print("Conflicto resuelto")
